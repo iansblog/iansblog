@@ -1,4 +1,7 @@
 <div id="header" align="center">
+Welcome to the git profile page
+
+
 ![Face](face.png)
 
 <div id="badges">
@@ -12,13 +15,8 @@
 
 </div>
 
----
 
-Click on the @icn-camera icon to take a screen shot.
-
----
 
 This is just a public facing repositories and a break down of what is going on.  
 [
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iansblog&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
