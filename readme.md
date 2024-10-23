@@ -1,7 +1,4 @@
 <div id="header" align="center">
-Welcome to the git profile page
-
-
 ![Face](face.png)
 
 <div id="badges">
