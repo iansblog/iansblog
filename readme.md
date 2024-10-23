@@ -20,7 +20,7 @@ The projects I have written that use docker are all avalable on the following UR
 - [Radio Information: Amateur Radio Information](https://github.com/iansblog/RadioInformation) - Example site: [Amateur Radio Information](https://amatureradio.26580.co.uk/)
 - [Blue Wave Watch: Blue Wave Watch, promoting safer swimming in the UK.](https://github.com/iansblog/BlueWaveWatch) - Example site: [BlueWave Watch - Select location](https://bluewave.26580.co.uk/)
 
-This is just a public facing repositories and a break down of what is going on.  
+This is just the public facing repositories and a break down of what is being used.  
 
 [
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iansblog&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
