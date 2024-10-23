@@ -15,7 +15,11 @@ Welcome to the git profile page
 
 </div>
 
+---
 
+Click on the @icn-camera icon to take a screen shot.
+
+---
 
 This is just a public facing repositories and a break down of what is going on.  
 [
