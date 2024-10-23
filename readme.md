@@ -1,14 +1,15 @@
 <div id="header" align="center">
 Welcome to the git profile page
 
+
 ![Face](face.png)
 
 <div id="badges">
   <a href="https://www.youtube.com/iansblog">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href=[https://x.com/iansblog">
-    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="X Twitter Badge"/>
+  <a href="https://x.com/iansblog">
+    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
